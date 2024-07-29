@@ -28,3 +28,13 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local# local env files
+.env
+.env.local
+.env.*.local
+.vscode
